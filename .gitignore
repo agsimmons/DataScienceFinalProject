@@ -2,6 +2,8 @@
 /data/
 /docs/
 *.h5
+*.sqlite3
+*.sqlite3-journal
 
 # ===== Python =====
 # Byte-compiled / optimized / DLL files
