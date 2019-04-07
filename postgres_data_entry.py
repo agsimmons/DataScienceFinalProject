@@ -7,7 +7,7 @@ import config
 import models
 
 
-conn = psycopg2.connect(database='smart', user='smart_user')
+conn = psycopg2.connect(database='smart', user='andrew')
 cur = conn.cursor()
 
 
